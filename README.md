@@ -6,7 +6,7 @@
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungma1&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jungma1&show_icons=true&theme=dark&count_private=true&hide_border=true" align="left" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungma1&theme=dark&hide_border=true&layout=compact" align="left" />
