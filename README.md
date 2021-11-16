@@ -4,7 +4,14 @@
 
 <img src="https://media.tenor.com/images/40e2ee288bacb782ecb04170b65b21f7/tenor.gif">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungma1&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungma1&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=jungma1&show_icons=true&theme=dark&count_private=true&hide_border=true" align="left" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungma1&theme=dark&hide_border=true&layout=compact" align="left" />
+  <br/>
+</div>
 
 <!-- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=gray"/>  -->
 
