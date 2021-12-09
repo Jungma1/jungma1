@@ -1,8 +1,7 @@
 <p align="center">
   <strong>Jungma's github</strong>
   <br />
-  <br />
-  <img src="https://media.tenor.com/images/40e2ee288bacb782ecb04170b65b21f7/tenor.gif">
+<!--   <img src="https://media.tenor.com/images/40e2ee288bacb782ecb04170b65b21f7/tenor.gif"> -->
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungma1&theme=dark&hide_border=true&layout=compact" />
   <br/>
