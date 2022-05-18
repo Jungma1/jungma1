@@ -10,4 +10,4 @@
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&color=gray"/>
 </div>
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=jungma1&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jungma1&show_icons=true&theme=radical&count_private=true&hide_border=true" /> -->
